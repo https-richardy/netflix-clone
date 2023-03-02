@@ -1,1 +1,2 @@
-Email: richard@gmail.com | Senha: 34067294
+Email: teste@gmail.com | Senha: 123456789
+Email: usuario.teste@gmail.com | Senha: abc123login
